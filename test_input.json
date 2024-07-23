@@ -1,0 +1,4 @@
+{
+    "id" : "some-id",
+    "input" : { "message": "what are your hobbies." }
+}
